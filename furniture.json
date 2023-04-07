@@ -1,0 +1,37 @@
+[
+	{
+	"NAME":"TV storage",
+	"DESCRIPTION":"Its easy to keep the cords from your TV and other devices out of sight but close at hand.",
+	"MATERIALS":"Acetal plastic, \nPaper foil, \nSteel, \nNickel plated,",
+	"PRICE":"$1,175.00",
+	"IMAGE":"https://www.ikea.com/us/en/images/products/brimnes-tv-storage-combination-glass-doors-black__0724175_pe734355_s5.jpg?f=xs"
+	},
+	{
+	"NAME":"Desmond Dining Table",
+	"DESCRIPTION":"Look underneath, and you'll find a stately finishing touch: detailed cove molding on each of its two pedestals. When you use both of its extension leaves, up to 10 people can attend your next grand affair.",
+	"MATERIALS":"Made in Indonesia to Ethan Allen's \nPackaged weight: Top 244 lbs. \nBase 97 lbs.",
+	"PRICE":"$5,995.00",
+	"IMAGE":"https://www.ikea.com/us/en/images/products/danderyd-dining-table-oak-veneer-white__1054453_pe847707_s5.jpg?f=xs"
+	},
+	{
+	"NAME":"Elsen Custom Leather Storage Bed",
+	"DESCRIPTION":"Parsons-style profile gives this leather storage bed a modern look, while a deep drawer hidden in the footboard adds everyday practicality.",
+	"MATERIALS":"Hand-tailored in North America by Ethan Allen artisans \n191lbs/Top: 125lbs \n42lbs/Top: 103lbs",
+	"PRICE":"$4,750.00",
+	"IMAGE":"https://www.ikea.com/us/en/images/products/malm-high-bed-frame-2-storage-boxes-black-brown-luroey__1154412_pe886059_s5.jpg?f=xs"
+	},
+	{
+	"NAME":"Continental Peninsula Desk",
+	"DESCRIPTION":"Gustavian influences are seen in the classic woodworking techniques used to craft our Continental double dresser. Decorative molding, tapered legs,and six roomy drawers, create a gorgeous storage piece for your suite. Multiple custom finishes available.",
+	"MATERIALS":" Maple Double Dresser Product \nweight: 185 lbs; Packaged weight: 220 lbs",
+	"PRICE":"$2,990.00",
+	"IMAGE":"https://www.ikea.com/us/en/images/products/idasen-desk-black-dark-gray__0736566_pe740637_s5.jpg?f=xs"
+	},
+	{
+	"NAME":"Breckett Metal Hurricane",
+	"DESCRIPTION":"Crafted from steel with a black powder-coated finish—which meansthey're suited for both indoor and outdoor use—our Breckett metal hurricanes get additional glimmer from painted brass details.",
+	"MATERIALS":"Product weight: Large 16.7 lbs., Medium 12 lbs., Small 8.2 lbs \n Package weight: 12 lbs",
+	"PRICE":"$175.00",
+	"IMAGE":"https://www.ikea.com/us/en/images/products/chilistran-plant-stand-with-wheels-white__0990171_pe820970_s5.jpg?f=xs"
+	}
+]
